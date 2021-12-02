@@ -1,0 +1,244 @@
+
+.padre{
+
+    display: flex;
+    flex-flow: column nowrap;
+
+}
+.margen-interno{
+    padding: 0px 50px;
+}
+
+
+
+
+
+  
+.menu{
+    
+ height: auto;
+
+display: flex;
+flex-flow: row  nowrap;
+
+
+align-items: center;
+flex-flow: row wrap;
+
+margin: 0px 2px;
+
+
+
+/* para que muestre todo en una linea es flex-flow: row  nowrap; */
+
+
+
+
+
+}
+
+
+
+
+
+.logoempresa{
+
+
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+    
+    height: 37px;
+    background: #000000;
+    flex: 1 1 auto;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+
+.logo a:hover{
+
+    color: white;
+    background: tomato;
+}
+
+.nav a:hover{
+
+    color:wheat;
+    background: tomato;
+
+}
+
+
+
+
+.white{
+
+    color: white;
+    font-size: 10px;
+    margin: 5px 2px;
+    text-align: center;
+    text-decoration: none;
+   align-self: flex-start;
+   height: 50px;
+ 
+
+}
+
+
+.white  :hover{
+
+    background: #000839;
+}
+.social a{
+    color: white;
+
+}
+
+.logo{
+
+    display: flex;
+   
+    order: 1;
+    flex: 1 1 auto;
+    
+}
+
+.nav{
+    background: #000;
+    display: flex;
+    margin: 0px 1px;
+    order: 2;
+    flex: 1 1 auto;
+    border-radius: 10px;
+   justify-content: center;
+   width: 800px;
+    
+}
+
+    
+  
+
+.nav a{
+
+    font-style: normal;
+    margin: 0px 2px;
+    padding: 10px;
+    height: auto;
+    font-size: 15px;
+    text-transform: uppercase;
+
+    
+letter-spacing: 2px;
+
+}
+
+.social{
+
+    display: flex;
+
+    order: 3;
+    flex: 1 1 auto;
+    font-size: 25px;
+    color: white;
+    margin: 0%;
+ 
+
+} 
+
+
+.social a:hover{
+
+color: black;
+
+}
+
+body
+{
+background:#ffa420;
+font-family:calibri;
+font: size 18px;
+color:black;
+}
+h2
+{
+font-size:3em;
+}
+table
+{
+ 
+ 
+ background-color:#FCF3CF;
+}
+
+table td
+{
+ 
+ padding:15px; /*aumenta el tamaño de cada celda*/
+}
+
+table tr:hover /*da estilo al pasar por el raton*/
+{
+ background:;
+}
+
+table td:hover
+{
+ background:;
+ color:tomato;
+}
+
+h2
+{
+ color:White;
+ font-size: 35px;
+}
+
+
+.footer{
+    order: 4;
+    background: #000000;
+   height: 35px;
+   
+    flex-flow: row wrap;
+    text-align: center;
+     margin: 10px 0px 0px 0px;
+
+
+
+}
+
+.pie{
+    
+    width: 400px;
+    margin: 1% 30%;
+    text-align: center;
+
+}
+
+.pie a {
+color: #fff;
+font-size: 10px;
+text-transform: uppercase;
+padding: 0px 5px;
+letter-spacing: 2px;
+
+
+}
+
+
+.pie2{
+    
+    
+    background: black;
+   width: 900px;
+   margin: 2% 35%;
+
+
+}
+
+
+
+

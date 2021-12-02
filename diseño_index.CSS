@@ -1,0 +1,478 @@
+*{
+    margin: 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.padre{
+
+    display: flex;
+    flex-flow: column nowrap;
+
+}
+.margen-interno{
+    padding: 0px 50px;
+}
+
+
+
+.header{
+order: 1;
+    
+    background-image: url(imagenes/PLAYA.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+
+    
+    display: flex;
+    flex-flow: column nowrap;
+    height: auto;
+
+}
+  
+.menu{
+    
+ height: auto;
+
+display: flex;
+flex-flow: row  nowrap;
+
+
+align-items: center;
+flex-flow: row wrap;
+
+margin: 0px 2px;
+
+
+
+/* para que muestre todo en una linea es flex-flow: row  nowrap; */
+
+
+
+
+
+}
+
+
+
+
+
+.logoempresa{
+
+
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+    
+    height: 37px;
+    background: #000000;
+    flex: 1 1 auto;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+
+.logo a:hover{
+
+    color: white;
+    background: tomato;
+}
+
+.nav a:hover{
+
+    color:wheat;
+    background: tomato;
+
+}
+
+
+
+
+.white{
+
+    color: white;
+    font-size: 10px;
+    margin: 5px 2px;
+    text-align: center;
+    text-decoration: none;
+   align-self: flex-start;
+   height: 50px;
+ 
+
+}
+
+
+.white  :hover{
+
+    background: #000839;
+}
+.social a{
+    color: white;
+
+}
+
+.logo{
+
+    display: flex;
+   
+    order: 1;
+    flex: 1 1 auto;
+    
+}
+
+.nav{
+    background: #000;
+    display: flex;
+    margin: 0px 1px;
+    order: 2;
+    flex: 1 1 auto;
+    border-radius: 10px;
+   justify-content: center;
+   width: 800px;
+    
+}
+
+    
+  
+
+.nav a{
+
+    font-style: normal;
+    margin: 0px 2px;
+    padding: 10px;
+    height: auto;
+    font-size: 15px;
+    text-transform: uppercase;
+
+    
+letter-spacing: 2px;
+
+}
+
+.social{
+
+    display: flex;
+
+    order: 3;
+    flex: 1 1 auto;
+    font-size: 25px;
+    color: white;
+    margin: 0%;
+ 
+
+} 
+
+
+.social a:hover{
+
+color: black;
+
+}
+
+ .texto_principal{
+   order: 2;
+   padding: 3px;
+     flex: 1 1 auto;
+color: white;
+font-size: 14px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+text-align: center;
+height: auto;
+width: 60%;
+margin: 5% 25%;
+line-height: 1.5;
+
+font-weight: 300;
+
+
+
+
+
+
+    
+} 
+ 
+                       
+
+
+
+.section{
+    order: 3;
+    background: #f7f7f7;
+display: flex;
+
+margin-top: 10px;
+
+}
+
+.articulos{
+    background: #f7f7f7;
+
+    flex: 2 1 auto;
+
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+.article img {
+
+    height: 50px;
+}
+
+.article{
+  
+
+   flex: 1 1 40%;
+
+color:#444;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: 10px 10px 0px 0px;
+
+  flex: 1 1 45%;
+  background: #ececec;;
+
+}
+
+.article img{
+
+    width: 400px;
+    height: 300px;
+
+}
+
+.article a{
+color: #fff;
+font-size: 13px;
+padding:  15px;
+background: #000;
+margin: 15px 0px;
+display: inline-block;
+
+
+
+}
+
+
+.article a:hover{
+
+    background: tomato;
+
+}
+
+
+
+h3{
+    color:#fff;
+    font-size: 17px;
+    padding: 10px 2px 1px;
+    margin-top: -60px;
+ 
+}
+
+
+
+h2{
+font-size: 19px;
+text-transform:uppercase;
+padding: 2px 10px 1px;
+color: #fff;
+
+}
+
+
+
+
+.navegacion{
+
+  
+    flex: 1 1 100%;
+    margin: 20px 0px 0px 0px;
+   
+    padding: 7px;
+
+
+}
+
+.navegacion a{
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    letter-spacing: 2px;
+    background: #000;
+
+
+
+
+}
+
+
+.aside{
+
+
+
+    flex: 1 1 auto;  
+    margin: 10px 5px 10px 0px;
+
+}
+
+.aside img{
+
+    height:200px;
+    width:300px ;
+   
+}
+
+h4{
+    background: #000;
+color: white;
+padding: 10px;
+text-transform: uppercase;
+
+
+}
+
+
+
+.publicidad a{
+   
+    color: white;
+}
+
+
+.footer{
+    order: 4;
+    background: #000000;
+   height: 80px;
+   
+    flex-flow: row wrap;
+    text-align: center;
+     margin: 10px 0px 0px 0px;
+
+
+
+}
+
+.pie{
+    
+    width: 400px;
+    margin: 1% 30%;
+    text-align: center;
+
+}
+
+.pie a {
+color: #fff;
+font-size: 10px;
+text-transform: uppercase;
+padding: 0px 5px;
+letter-spacing: 2px;
+
+
+}
+
+footer  :hover{
+    background: coral;
+}
+
+
+
+@media all and (max-width:1120px){
+    
+    .logo{
+
+        display: flex;
+       
+        order: 1;
+        flex: 1 1 auto;
+    width: 650px;
+    height: 27px;    
+    
+    }
+   
+    
+
+
+
+
+  .section{
+
+    flex-direction: column;
+
+  }
+
+  .menu{
+
+    flex-direction: column;
+ height: auto;
+
+
+}
+
+h1{
+    font-size: 30px;
+
+}
+
+.aside{
+
+    display: flex;
+        flex-flow: row wrap;
+    }
+  
+
+
+}
+
+
+
+@media all and (max-width:762px){
+
+    .articulos{
+
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .aside{
+
+    display: flex;
+        flex-flow: row wrap;
+    }
+  
+
+
+}
+
+@media all and (max-width:400px){
+
+    .aside{
+
+    
+        flex-direction: column;
+    }
+
+}
+
+
+.pie2{
+    
+    
+    background: black;
+   width: 300px;
+   margin: 2% 35%;
+   height: 30px;
+
+
+}
+
+
+
+
+
+  
