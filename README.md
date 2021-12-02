@@ -1,6 +1,6 @@
 # pagina-turismo
 practica
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/CH.jpg
+https://raw.githubusercontent.com/pedroalbaa/pagina/turismo/imagenes/CH.jpg
 https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/CLARA.jpg
 https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/MORELIA.jpg
 https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/PATZCUARO.jpg
