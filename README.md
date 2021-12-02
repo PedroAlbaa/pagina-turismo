@@ -1,10 +1,10 @@
 # pagina-turismo
 practica
-https://raw.githubusercontent.com/pedroalbaa/pagina/turismo/imagenes/CH.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/CLARA.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/MORELIA.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/PATZCUARO.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/PLAYA.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/URUAPAN.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/ZACAPU.jpg
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/imagenes/ZIRAHUEN.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/CH.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/CLARA.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/MORELIA.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/PATZCUARO.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/PLAYA.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/URUAPAN.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/ZACAPU.jpg
+https://raw.githubusercontent.com/PedroAlbaa/pagina/turismo/imagenes/ZIRAHUEN.jpg
